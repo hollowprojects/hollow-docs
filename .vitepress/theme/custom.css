@@ -1,0 +1,15 @@
+/* The Hollow mark's gold (assets/brand/README.md): the deep variant on light surfaces, where
+   the bright one is too pale to read, and the bright one on dark. */
+:root {
+  --vp-c-brand-1: #b07d2e;
+  --vp-c-brand-2: #9a6b24;
+  --vp-c-brand-3: #b07d2e;
+  --vp-c-brand-soft: rgba(176, 125, 46, 0.14);
+}
+
+.dark {
+  --vp-c-brand-1: #d9a441;
+  --vp-c-brand-2: #e3b560;
+  --vp-c-brand-3: #b07d2e;
+  --vp-c-brand-soft: rgba(217, 164, 65, 0.16);
+}

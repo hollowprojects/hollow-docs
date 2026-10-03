@@ -1,0 +1,5 @@
+<!-- Light-background mark. The cream mark (#e8dcc4) sits at ~1.2:1 against white and all-but
+     vanishes, so light surfaces get the inverted form: dark crescent, transparent interior, and a
+     deepened amber dot (#b07d2e ~4.3:1 on white) because the #d9a441 accent is too pale to read
+     against paper. Use hollow-mark.svg on dark surfaces and this one on light. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><defs><mask id="m"><circle cx="512" cy="512" r="333" fill="#fff"/><circle cx="582" cy="448" r="211" fill="#000"/></mask></defs><circle cx="512" cy="512" r="333" fill="#16161a" mask="url(#m)"/><circle cx="627" cy="499" r="32" fill="#b07d2e"/></svg>
